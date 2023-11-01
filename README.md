@@ -12,4 +12,4 @@ For more visual elements, check out these reports I compiled as part of my lab r
 
 ### Final Project
 
-To be published 👀
+- [🍃 Phase I: Multiplier & Divider](https://ssusanto.notion.site/Phase-I-Multipliers-Dividers-bedfadab89c44d0e9526126a96b05838?pvs=4)
